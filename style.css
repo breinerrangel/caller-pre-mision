@@ -20,7 +20,7 @@
   }
   .contenedor {
     
-    width: 372px;
+    width: 375px;
     height: 100vh;
    
   }
@@ -104,7 +104,7 @@
     color: hsl(228, 45%, 44%);
   }
   #box {
-    padding: 35px;
+    padding: 28px;
     
   
     background-image: url(./images/bg-mobile.svg);
